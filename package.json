@@ -26,8 +26,8 @@
   "dependencies": {
     "@prisma/client": "2.25.0",
     "blitz": "0.38.1",
-    "react-dom": "alpha",
-    "react": "alpha",
+    "react": "0.0.0-experimental-3310209d0",
+    "react-dom": "0.0.0-experimental-3310209d0",
     "zod": "3.2.0",
     "formik": "2.2.9"
   },
